@@ -5,8 +5,9 @@ This is a collection of homebrews I've created on the Nintendo DS in 2010.
 Those homebrews were written in [MicroLua](https://sourceforge.net/projects/microlua/), a scripting language for the Nintendo DS.
 
 ## Installation
-- Download a Nintendo DS emulator (https://desmume.org/)
-- Open the *.nds
+- Download a [Nintendo DS emulator](https://desmume.org/)
+- Download the homebrews from [release](https://github.com/thomaspoulainconsulting/NintendoDSHomebrews/releases)
+- Open the *.nds inside the emulator
 
 ## Showcase
 
